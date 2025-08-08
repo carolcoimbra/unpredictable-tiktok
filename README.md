@@ -1,7 +1,7 @@
 # On the (Un)Predictability of User Watching Behavior with Short Format Videos on TikTok
 
 **Authors:**  
-Carolina Coimbra Vieira[^1][^2][^3][^corresp], Sepehr Mousavi[^2][^3], Abhisek Dash[^2], Krishna P. Gummadi[^2], Oshrat Ayalon[^4], Savvas Zannettou[^5]   
+Carolina Coimbra Vieira[^corresp][^1][^2][^3], Sepehr Mousavi[^2][^3], Abhisek Dash[^2], Krishna P. Gummadi[^2], Oshrat Ayalon[^4], Savvas Zannettou[^5]   
 
 ---
 
