@@ -10,4 +10,4 @@ Carolina Coimbra Vieira¹²³*, Sepehr Mousavi²³, Abhisek Dash², Krishna P. G
 ⁴ University of Haifa, Abba Khoushy Ave 199, 3498838 Haifa, Israel  
 ⁵ Delft University of Technology (TU Delft), Mekelweg 5, 2628 Delft, Netherlands  
 
-* Corresponding author — ORCID: 0000-0003-3156-4151, Website: carolcoimbra.github.io, Email: coimbravieira@demogr.mpg.de
+\* Corresponding author — ORCID: 0000-0003-3156-4151, Website: carolcoimbra.github.io, Email: coimbravieira@demogr.mpg.de
