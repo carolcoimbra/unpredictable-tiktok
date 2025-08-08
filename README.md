@@ -10,5 +10,4 @@ Carolina Coimbra Vieira[^1][^2][^3][^*], Sepehr Mousavi[^2][^3], Abhisek Dash[^2
 [^3]: Saarland University, Campus, 66123 Saarbrücken, Germany  
 [^4]: University of Haifa, Abba Khoushy Ave 199, 3498838 Haifa, Israel  
 [^5]: Delft University of Technology (TU Delft), Mekelweg 5, 2628 Delft, Netherlands  
-[^*]: Corresponding author — [ORCID](https://orcid.org/0000-0003-3156-4151), [Website](https://carolcoimbra.github.io/), [Email](mailto:coimbravieira@demogr.mpg.de)
-
+[^*]: Corresponding author — [ORCID](https://orcid.org/0000-0003-3156-4151), [Website](https://carolcoimbra.github.io/), [Email](mailto:coimbravieira@demogr.mpg.de) 
